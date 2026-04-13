@@ -1,0 +1,14 @@
+# Arquivos temporários
+*.tmp
+*.swp
+*.swo
+
+# Binários e logs (comuns em Arch/C/Rust)
+target/
+*.log
+bcache-tracker (se este for o nome do seu executável)
+
+# Pastas de IDE/Editor
+.nvime/
+.idea/
+.vscode/
